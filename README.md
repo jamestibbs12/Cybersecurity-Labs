@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Lab: Phishing Simulation
 **Course:** CompTIA Security+
 
