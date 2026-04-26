@@ -37,6 +37,5 @@ Monitored the Kali terminal in real-time. Initiated data theft tools such as mic
 #### 
 After the initial compromise, I utilized a Meterpreter shell to exercise post-exploitation capabilities. I successfully executed a keyscan to capture live keystrokes, initiated microphone recording, and monitored system idle time to assess user activity. This highlighted the severe privacy and security risks associated with successful social engineering attacks. Lesson learned!
 =======
-# Cybersecurity-Labs
-Take a look at the labs and hands-on practice I have undertaken on my cybersecurity journey. Thanks for stopping by!
+
 >>>>>>> 548b62df41a456cf52b20009b5fbf2be728b7709
